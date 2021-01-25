@@ -1,9 +1,39 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`App should render correctly 1] = `
-<main>
-  <h1>
-    Over to you...
-  </h1>
-</main>
+exports[`App should render correctly 1`] = `
+<BrowserRouter>
+  <Header />
+  <main
+    className="py-3"
+    style={
+      Object {
+        "backgroundColor": "white",
+      }
+    }
+  >
+    <ForwardRef
+      fluid={true}
+      style={
+        Object {
+          "backgroundColor": "white",
+        }
+      }
+    >
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+      <Route
+        component={[Function]}
+        path="/candidates/:id"
+      />
+      <Route
+        component={[Function]}
+        path="/about"
+      />
+    </ForwardRef>
+  </main>
+  <Footer />
+</BrowserRouter>
 `;
