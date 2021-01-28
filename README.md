@@ -31,7 +31,7 @@ You will be graded based on if the following have been met:
 
 We have placed a number of helpful todo's inside the code (see `index.js` and `App.jsx`) to help get you started, the main items we are looking for are:
 
-- Fork this repository on with your own Github account and clone your fork locally.
+- Clone this repository locally.
 
 - Use a [json-server](https://www.npmjs.com/package/json-server) to serve data from the `data.json` file with candidates information.
 
