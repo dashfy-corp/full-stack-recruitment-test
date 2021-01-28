@@ -82,8 +82,9 @@ To startup the frontend client run the following command.
 ## Submission Guidelines
 
 Once complete please do the following:
-- Create a Pull Request from your fork to our base repository.
-- Let your recruiter know your are done
+- Push the project to a repository on your Github account
+- Send us an email with your repository url
+- We will evaluate and get back to you.
 
 
 
